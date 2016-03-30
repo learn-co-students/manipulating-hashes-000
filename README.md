@@ -1,6 +1,10 @@
 # Code Along Exercise: Manipulating Hashes
 
-## Objectives
+## Objeasdfctives
+
+asdfdasf
+
+asdf
 
 In this lesson, we'll be taking a closer look at multidimensional, or nested, hashes, iteration and higher level hash methods. We'll go through a few challenges together before you move on to the next lab.  
 
