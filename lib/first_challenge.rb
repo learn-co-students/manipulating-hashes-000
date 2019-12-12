@@ -14,7 +14,11 @@ def first_challenge
   }
 
   #your code here
-
+  contacts.each do |key, value|
+    value.each do |k, v|
+      v.kind_of?(Array) && v.include?("strawberry")? v.delete("strawberry"): nil
+    end
+  end
 
   #remember to return your newly altered contacts hash!
   contacts
