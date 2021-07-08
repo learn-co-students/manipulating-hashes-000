@@ -8,6 +8,10 @@ def second_challenge
 
   #code your solution here!
 
-  
+ arr = []
+ groceries.each do |category, list|
+	 arr << list
+ end
+ arr.flatten
 
 end
